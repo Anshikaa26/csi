@@ -22,4 +22,4 @@ This includes three sections:
 ### 4. Grouping similar texts
 This section groups texts that have similar keywords. In other words, this section displays the clusters of similar texts and assigns a label to each cluster. 
 ### 5. Summary
-This section provides information on the number of texts contain the word "food poisoning"
+This section provides information on the number of texts containing the word "food poisoning"
