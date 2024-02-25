@@ -7,7 +7,7 @@ This task aims at addressing a situation involving a restaurant in suburban Bang
 ## TASK INFORMATION
 - **File Name:** Food_poisoning.ipynb 
 - **Resource Used:** Google Colab
-- **Dataset Name:** TextMsgs.csv (self-made)
+- **Dataset Name:** TextMsgs.csv (self-made, very small, for experimental purposes)
 - **Model used:** Kmeans Clustering
 ## TASK WORKFLOW
 ### 1. Data pre-processing
